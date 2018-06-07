@@ -1,0 +1,16 @@
+{
+    "Name": "CBTPiloting",
+    "Enabled": true,
+
+    "Version": "v0.1",
+    "Description": "Adopts Classic Battletech Tabletop piloting skill checks",
+    "Author": "Joe Guetler",
+    "Website": "",
+    "Contact": "",
+
+	"DLL": "CBTPiloting.dll",
+
+    "Settings": {
+        "PilotStabilityCheck": 0.30
+    }
+}
